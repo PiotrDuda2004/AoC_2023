@@ -4,5 +4,5 @@ for line in data:
         if(key.isdigit()):
             first = key
             print(first)
-            
+            break
             
